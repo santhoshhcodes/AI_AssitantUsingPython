@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.wav
+*.txt
+
+# Virtual environment
+venv/
+.env
+
+# Temp / runtime
+temp_*.wav
+temp_*.txt
